@@ -10,9 +10,9 @@
 //To get in the heavyweight division of the Strawberry Festival’s pie eating contest you must
 //weigh 250 lbs or more.  Determine whether an entrant qualifies based on his weight.
 
-var weight= 200;
+var weight= 250;
 if(weight>249){
-    console.log("The competitor qualifies for the heavyweight division");
+    console.log('The competitor qualifies for the heavyweight division');
 }else{
     console.log("The competitor needs to gain some weight!");
 }
@@ -25,31 +25,31 @@ var degree= 32;
 var unit= "F";
 
 if(unit=="F"){
-    console.log("The temperature is "+(degree-32)*(5/9)+" degrees Celsius");
+    console.log("The temperature is "+(degree-32)*5/9+" degrees Celsius");
 }
-if(unit=="C"){
-    console.log("The temperature is "+degree*(9/5)+32+" degrees Fahrenheit");
+else if(unit=="C"){
+    console.log("The temperature is "+(degree*(9/5)+32)+" degrees Fahrenheit");
 }
 
 //A student earns a number grade at the conclusion of a course at Full Sail.  Determine the
 // appropriate letter grade for that number using conditional statements.
 
-var grade= 91;
+var grade= 73;
 var percent= (grade/100)*100;
 var letterGrade= '';
-if(grade==100){
+if(grade>94){
     letterGrade= 'A+';
-}else if(grade<=99){
+}else if(grade>=90){
     letterGrade= 'A';
-}else if(grade<=89){
+}else if(grade>=85){
     letterGrade= 'B+';
-}else if(grade<=84){
+}else if(grade>=80){
     letterGrade= 'B';
-}else if(grade<=79){
+}else if(grade>=76){
     letterGrade= 'C+';
-}else if(grade<=75){
+}else if(grade>=73){
     letterGrade= 'C';
-}else if(grade<=72){
+}else if(grade>=70){
     letterGrade= 'D';
 }else if(grade<=69){
     letterGrade= 'F';
@@ -66,12 +66,18 @@ var fLeft= 35;
 var fRight= 35;
 var rLeft= 40;
 var rRight= 40;
-if(fLeft+fRight==70){
-   console.log("The front tires pass spec!");
-}else console.log("Get your tires checked out");
-if (rLeft+rRight==80){
-   console.log("The rear tires pass spec!");
-}else console.log("Get your tires checked out");
+var tirePressure=[];
+tirePressure[0]=fLeft;
+tirePressure[1]=fRight;
+tirePressure[2]=rLeft;
+tirePressure[3]=rRight;
+
+if(tirePressure[0]==tirePressure[1]&& tirePressure[2]==tirePressure[3]){
+   console.log("The tires pass spec!");
+}
+else{
+   console.log("Get your tires checked out");
+}
 
 
 
