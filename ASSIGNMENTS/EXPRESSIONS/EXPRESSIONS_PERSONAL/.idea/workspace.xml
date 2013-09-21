@@ -5,7 +5,7 @@
     <ignored path="EXPRESSIONS_PERSONAL.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="e6cd6f78-1f6d-43f0-9b91-fc8a97de5066" time="1379725990438" ignored="false" />
-    <file path="/initial.js" changelist="e6cd6f78-1f6d-43f0-9b91-fc8a97de5066" time="1379744065349" ignored="false" />
+    <file path="/initial.js" changelist="e6cd6f78-1f6d-43f0-9b91-fc8a97de5066" time="1379746928462" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,7 @@
       <file leaf-file-name="initial.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/initial.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="20" selection-start="397" selection-end="397" vertical-scroll-proportion="0.24849397">
+            <state line="13" column="0" selection-start="391" selection-end="391" vertical-scroll-proportion="0.2936747">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -266,7 +266,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/initial.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="20" selection-start="397" selection-end="397" vertical-scroll-proportion="0.24849397">
+        <state line="13" column="0" selection-start="391" selection-end="391" vertical-scroll-proportion="0.2936747">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
