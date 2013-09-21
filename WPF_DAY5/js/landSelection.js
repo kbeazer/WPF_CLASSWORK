@@ -1,8 +1,8 @@
-//Random land type Generator
 // 1. Sort out the land types in your world in alphabetical order
 // 2. Prompt for (X,Y) positions and return land type at the different positions
 // 3.  Enter North, South, East, West, and Quit log
 // 4. Handle land borders or edges as you see fit
+
 
 function landSelection(){
     var initValue= Math.random()*10;
@@ -44,6 +44,7 @@ function landSelection(){
         returnLandType= 'city'}
     return returnLandType;
 }
+
 function tabGen (len){
     if(len>7){
         return'\t';
@@ -67,5 +68,13 @@ for(outer=0;outer<10;outer++){
         worldPresentationString+=world[outer][inner];
         worldPresentationString+=tabGen(world[outer][inner].length);
     }
-console.log(worldPresentationString);
+//console.log(worldPresentationString);
+}
+function sortOut(){
+    var randomSelect=Math.random()*10;
+    var group1;
+    var group2;
+    var group3;
+
+
 }
