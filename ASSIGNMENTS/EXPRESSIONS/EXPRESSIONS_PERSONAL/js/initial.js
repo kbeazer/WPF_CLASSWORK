@@ -9,11 +9,11 @@ var salesTax= prompt('Enter a single digit tax percent here');
 var taxPercentage= salesTax/100;
 var taxAmount= Math.floor(taxPercentage*itemPrice);
 var fullTotal= [];
-itemPrice= [0];
-taxAmount=[1];
+fullTotal[0]= itemPrice;
+fullTotal[1]= taxAmount;
 
 
-console.log(fullTotal[0][1])
+console.log(fullTotal[1])
 var result = dollarAmount-fullTotal;
 if(fullTotal>dollarAmount){
     console.log('You do not have enough funds for this item')
