@@ -16,7 +16,7 @@ var fullTotal= newArray[0]*1+newArray[1];
 var newBalance= dollarAmount-fullTotal;
 
 
-console.log(fullTotal)
+
 
 if(dollarAmount==''){
     result= 'Please enter your spending amount to continue';
@@ -28,4 +28,4 @@ if(dollarAmount==''){
     result= 'You do not have enough funds for this item';
 }else{
     result= 'You will have $'+newBalance+' after purchasing this item';
-}
+} console.log(result);
