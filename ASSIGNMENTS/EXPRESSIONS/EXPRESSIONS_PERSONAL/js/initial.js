@@ -3,20 +3,29 @@
 // Expressions Personal
 
 //***Change Calculator***
-var dollarAmount= prompt('Enter your current amount here');
+var dollarAmount= prompt('Enter your spending amount here');
 var itemPrice= prompt('Enter the item price here');
-var salesTax= prompt('Enter a single digit tax percent here');
+var salesTax= prompt('Enter a single digit sales tax percentage here');
 var taxPercentage= salesTax/100;
 var taxAmount= Math.floor(taxPercentage*itemPrice);
-var fullTotal= [];
-fullTotal[0]= itemPrice;
-fullTotal[1]= taxAmount;
+var result= '';
+var newArray= [];
+newArray[0]= itemPrice;
+newArray[1]= taxAmount;
+var fullTotal= newArray[0]*1+newArray[1];
+var newBalance= dollarAmount-fullTotal;
 
 
-console.log(fullTotal[1])
-var result = dollarAmount-fullTotal;
-if(fullTotal>dollarAmount){
-    console.log('You do not have enough funds for this item')
-}else if(fullTotal<dollarAmount){
-    console.log('You will have $'+result+' after purchasing this item')
+console.log(fullTotal)
+
+if(dollarAmount==''){
+    result= 'Please enter your spending amount to continue';
+}else if(itemPrice==''){
+    result= 'Please enter the item price to continue';
+}else if(salesTax==''){
+    result= 'Please enter the sales tax percentage to continue';
+}else if(fullTotal>dollarAmount){
+    result= 'You do not have enough funds for this item';
+}else{
+    result= 'You will have $'+newBalance+' after purchasing this item';
 }
