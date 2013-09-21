@@ -8,7 +8,8 @@ var itemPrice= prompt('Enter the item price here');
 var salesTax= prompt('Enter a single digit tax percent here');
 var taxPercentage= salesTax/100;
 var taxAmount= taxPercentage*itemPrice;
-taxAmount= Math.floor();
+taxAmount== Math.floor();
+console.log(taxAmount)
 var fullTotal= itemPrice+taxAmount;
 var result = dollarAmount-fullTotal;
 if(fullTotal>dollarAmount){
