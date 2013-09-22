@@ -45,7 +45,7 @@ if(user==''){
 }else if(potato==''){
     result= 'Please enter the number of potatoes in each bag to continue';
 }else{
-    result= ''+user+', you have just created a '+totalAmount+' PotatoSack containing '+magicPotatoes+'magic Potatoes';
+    result= ''+user+', you have just created a '+totalAmount+' PotatoSack containing '+magicPotatoes+' magic potatoes';
 }console.log(result);
 
 
