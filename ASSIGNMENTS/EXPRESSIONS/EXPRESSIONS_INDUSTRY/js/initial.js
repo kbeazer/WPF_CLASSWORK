@@ -12,6 +12,7 @@ var client= prompt('Please enter your first name');
 var month= prompt('Please enter the numerical value of the current month');
 var website= prompt('Please enter the address for your website');
 var calculation= 12-month;
+var productionMonth= newArray[calculation]
 var newArray=[month];
 newArray[1]= january;
 newArray[2]= february;
@@ -34,7 +35,7 @@ if(client=''){
     result= 'Please enter the address for your website to continue';
 }else{
     result= ''+client+', your website '+website+' will be up and running by '+productionMonth+' of this year';
-}
+} console.log(result);
 
 
 
