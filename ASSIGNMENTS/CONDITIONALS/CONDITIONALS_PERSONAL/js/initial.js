@@ -6,9 +6,13 @@
 
 // I want to create a code that will determine what type of
 // car a customer can afford based on their year of birth
+
+//This will prompt the user to enter their name
 var firstPrompt= prompt("Please enter your name");
+// This will prompt the user to enter the year they were born
 var secondPrompt= prompt("Please enter the year you were born"," ex. 1974");
-var carResult= 2013-secondPrompt;
+//This calculation will give the age of the user
+var carResult= 2013-parseInt(secondPrompt);
 
 function randomSelection(){
     if(carResult>40){
