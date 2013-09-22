@@ -2,12 +2,12 @@
 // 9/20/13
 // Expressions Wacky
 
-//***Potatoes in a Sack***
+//***Magic PotatoSack Creator***
 
 var user= prompt('Please enter your name here')
 var sack= prompt('Please enter the number of potato bags');
 var potato= prompt('Please enter the number of potatoes in each bag');
-var totalAmount= potato*sack;
+var totalAmount= parseInt(potato)*parseInt(sack);
 var newArray= [totalAmount];
 newArray[0]= 'red';
 newArray[1]= 'blue';
@@ -33,7 +33,7 @@ if(user==''){
 }else if(potato==''){
     result= 'Please enter the number of potatoes in each bag to continue';
 }else{
-    result= ''
+    result= 'Ok '+user+', you have just created a '+totalAmount+' PotatoSack'
 }
 
 
