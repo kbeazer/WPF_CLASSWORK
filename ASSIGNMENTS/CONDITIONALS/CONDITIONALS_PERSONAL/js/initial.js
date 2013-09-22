@@ -45,9 +45,10 @@ if(firstPrompt==''){
 // This command prompts the user to enter the year that they were born in order to continue
 }else if(secondPrompt== ''){
         console.log('Please enter the year you born');
-//
+// This command will let users know if they don't qualify for a vehicle
 }else if(carResult<17){
         console.log('We are very sorry '+firstPrompt+', but you do not qualify for a vehicle at this time');
+// This command will let users know what type of vehicle they qualify for
 }else{
         console.log(''+firstPrompt+', you have qualified for a brand new '+randomSelection()+'!!!');
 }
