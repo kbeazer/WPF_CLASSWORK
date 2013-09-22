@@ -39,11 +39,13 @@ function randomSelection(){
     return 'you do not qualify for a vehicle at this time';
 }
 }
-// This command prompts user the enter their name in order to continue
+// This command prompts the user to enter their name in order to continue
 if(firstPrompt==''){
     console.log('Please enter user name to continue');
+// This command prompts the user to enter the year that they were born in order to continue
 }else if(secondPrompt== ''){
         console.log('Please enter the year you born');
+//
 }else if(carResult<17){
         console.log('We are very sorry '+firstPrompt+', but you do not qualify for a vehicle at this time');
 }else{
