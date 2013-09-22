@@ -5,7 +5,7 @@
     <ignored path="EXPRESSIONS_WACKY.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="37a9dabd-4be9-4578-b6e3-bba7cb9f6c43" time="1379866349419" ignored="false" />
-    <file path="/initial.js" changelist="37a9dabd-4be9-4578-b6e3-bba7cb9f6c43" time="1379871192395" ignored="false" />
+    <file path="/initial.js" changelist="37a9dabd-4be9-4578-b6e3-bba7cb9f6c43" time="1379872171791" ignored="false" />
     <file path="$PROJECT_DIR$/../EXPRESSIONS_INDUSTRY/js/initial.js" changelist="37a9dabd-4be9-4578-b6e3-bba7cb9f6c43" time="1379870932719" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
       <file leaf-file-name="initial.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/initial.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="53" selection-start="744" selection-end="744" vertical-scroll-proportion="0.6325301">
+            <state line="47" column="118" selection-start="1401" selection-end="1401" vertical-scroll-proportion="0.7289157">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -267,7 +267,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/initial.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="53" selection-start="744" selection-end="744" vertical-scroll-proportion="0.6325301">
+        <state line="47" column="118" selection-start="1401" selection-end="1401" vertical-scroll-proportion="0.7289157">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

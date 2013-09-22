@@ -14,6 +14,7 @@ newArray[1]= 'blue';
 newArray[2]= 'green';
 newArray[3]= 'purple';
 newArray[4]= 'yellow';
+var magicPotatoes= '';
 var result= '';
 if(totalAmount<20){
     totalAmount= newArray[0];
@@ -26,6 +27,17 @@ if(totalAmount<20){
 }else{
     totalAmount= newArray[4];
 }
+if(totalAmount== newArray[0]){
+    magicPotatoes= '5';
+}else if(totalAmount== newArray[1]){
+    magicPotatoes= '10';
+}else if(totalAmount== newArray[2]){
+    magicPotatoes= '15';
+}else if(totalAmount== newArray[3]){
+    magicPotatoes= '20';
+}else{
+    magicPotatoes= '25';
+}
 if(user==''){
     result= 'Please enter your name to continue';
 }else if(sack==''){
@@ -33,7 +45,7 @@ if(user==''){
 }else if(potato==''){
     result= 'Please enter the number of potatoes in each bag to continue';
 }else{
-    result= 'Ok '+user+', you have just created a '+totalAmount+' PotatoSack'
+    result= ''+user+', you have just created a '+totalAmount+' PotatoSack containing '+magicPotatoes+'magic Potatoes';
 }console.log(result);
 
 
