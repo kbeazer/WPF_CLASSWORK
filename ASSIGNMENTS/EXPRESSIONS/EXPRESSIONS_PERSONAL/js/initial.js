@@ -12,7 +12,7 @@ var result= '';
 var newArray= [];
 newArray[0]= itemPrice;
 newArray[1]= taxAmount;
-var fullTotal= newArray[0]*1+newArray[1];
+var fullTotal= parseInt(newArray[0])*1+parseInt(newArray[1]);
 var newBalance= dollarAmount-fullTotal;
 if(dollarAmount==''){
     result= 'Please enter your spending amount to continue';
