@@ -11,7 +11,8 @@ var productionRate= days/time;
 var client= prompt('Please enter your first name');
 var month= prompt('Please enter the numerical value of the current month');
 var website= prompt('Please enter the address for your website');
-var newArray=[];
+var calculation= 12-month;
+var newArray=[month];
 newArray[1]= january;
 newArray[2]= february;
 newArray[3]= march;
@@ -32,7 +33,7 @@ if(client=''){
 }else if(website= ''){
     result= 'Please enter the address for your website to continue';
 }else{
-    result= ''+client+', your website will be up and running in "month" of this year';
+    result= ''+client+', your website '+website+' will be up and running by '+productionMonth+' of this year';
 }
 
 

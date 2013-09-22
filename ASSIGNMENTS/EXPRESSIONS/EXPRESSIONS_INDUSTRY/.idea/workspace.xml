@@ -5,7 +5,7 @@
     <ignored path="EXPRESSIONS_INDUSTRY.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="75f568a7-ff66-4595-9489-91ceca9f48fb" time="1379727165007" ignored="false" />
-    <file path="/initial.js" changelist="75f568a7-ff66-4595-9489-91ceca9f48fb" time="1379862278011" ignored="false" />
+    <file path="/initial.js" changelist="75f568a7-ff66-4595-9489-91ceca9f48fb" time="1379863153694" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +28,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="34" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0">
+            <state line="6" column="34" selection-start="99" selection-end="99" vertical-scroll-proportion="-3.75">
               <folding />
             </state>
           </provider>
@@ -37,7 +37,7 @@
       <file leaf-file-name="initial.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/initial.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="86" selection-start="1007" selection-end="1007" vertical-scroll-proportion="0.7680723">
+            <state line="13" column="25" selection-start="383" selection-end="383" vertical-scroll-proportion="0.2936747">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -275,14 +275,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="34" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0">
+        <state line="6" column="34" selection-start="99" selection-end="99" vertical-scroll-proportion="-3.75">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/initial.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="86" selection-start="1007" selection-end="1007" vertical-scroll-proportion="0.7680723">
+        <state line="13" column="25" selection-start="383" selection-end="383" vertical-scroll-proportion="0.2936747">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
