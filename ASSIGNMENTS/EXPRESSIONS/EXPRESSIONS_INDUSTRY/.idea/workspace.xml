@@ -5,7 +5,7 @@
     <ignored path="EXPRESSIONS_INDUSTRY.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="75f568a7-ff66-4595-9489-91ceca9f48fb" time="1379727165007" ignored="false" />
-    <file path="/initial.js" changelist="75f568a7-ff66-4595-9489-91ceca9f48fb" time="1379865683188" ignored="false" />
+    <file path="/initial.js" changelist="75f568a7-ff66-4595-9489-91ceca9f48fb" time="1379870926855" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,7 @@
       <file leaf-file-name="initial.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/initial.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="0" selection-end="54" vertical-scroll-proportion="0.067771085">
+            <state line="25" column="87" selection-start="680" selection-end="680" vertical-scroll-proportion="0.51957834">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -92,6 +92,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -126,7 +127,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -135,8 +135,8 @@
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../EXPRESSIONS_WACKY" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -250,6 +250,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/initial.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="0" selection-end="54" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/initial.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="57" selection-start="841" selection-end="841" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -298,7 +314,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/initial.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="0" selection-end="54" vertical-scroll-proportion="0.067771085">
+        <state line="25" column="87" selection-start="680" selection-end="680" vertical-scroll-proportion="0.51957834">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
