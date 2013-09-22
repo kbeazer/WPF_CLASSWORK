@@ -4,10 +4,10 @@
 
 //***Client Production Rate
 
-var time= 40;
-var hours= time/5;
-var year= days/365;
-var productionRate= days/time;
+var averageTime= 120;
+var days= averageTime/5;
+var weeks= Math.floor(days/7);
+
 var client= prompt('Please enter your first name');
 var month= prompt('Please enter the numerical value of the current month');
 var website= prompt('Please enter the address for your website');
@@ -34,7 +34,7 @@ if(client=''){
 }else if(website= ''){
     result= 'Please enter the address for your website to continue';
 }else{
-    result= ''+client+', your website '+website+' will be up and running by '+productionMonth+' of this year';
+    result= ''+client+', your website '+website+' will be up and running by "week" of '+productionMonth+'';
 } console.log(result);
 
 
