@@ -25,6 +25,13 @@ newArray[10]= october;
 newArray[11]= november;
 newArray[12]= december;
  var result= '';
+if(client=''){
+    result= 'Please enter your first name to continue';
+}else if(month= ''){
+    result= 'Please enter the numerical value of the current month to continue';
+}else if(website= ''){
+    result= 'Please enter the address for your website to continue';
+}
 
 
 
