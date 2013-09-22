@@ -45,15 +45,15 @@ if(totalAmount== newArray[0]){
     magicPotatoes= '25';
 }
 if(totalAmount==newArray[0]){
-    magicColor= [0];
+    magicColor= magicColor[0];
 }else if(totalAmount==newArray[1]){
-    magicColor= [1];
+    magicColor= magicColor[1];
 }else if(totalAmount==newArray[2]){
-    magicColor= [2];
+    magicColor= magicColor[2];
 }else if(totalAmount==newArray[3]){
-    magicColor= [3];
+    magicColor= magicColor[3];
 }else{
-    magicColor= [4];
+    magicColor= magicColor[4];
 }
 if(user==''){
     result= 'Please enter your name to continue';
