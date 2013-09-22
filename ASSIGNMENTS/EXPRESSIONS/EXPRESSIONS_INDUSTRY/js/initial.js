@@ -10,6 +10,7 @@ var year= days/365;
 var productionRate= days/time;
 var client= prompt('Please enter your first name');
 var month= prompt('Please enter the numerical value of the current month');
+var website= prompt('Please enter the address for your website');
 var newArray=[];
 newArray[1]= january;
 newArray[2]= february;
@@ -23,6 +24,7 @@ newArray[9]= september;
 newArray[10]= october;
 newArray[11]= november;
 newArray[12]= december;
+ var result= '';
 
 
 
