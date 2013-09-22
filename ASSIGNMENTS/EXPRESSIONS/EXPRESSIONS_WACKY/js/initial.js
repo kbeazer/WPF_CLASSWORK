@@ -4,10 +4,10 @@
 
 //***Magic PotatoSack Creator***
 
-var user= prompt('Please enter your name here')
+var user= prompt('Please enter your name here');
 var sack= prompt('Please enter the number of potato bags');
 var potato= prompt('Please enter the number of potatoes in each bag');
-var totalAmount= parseInt(potato)*parseInt(sack);
+var totalAmount= (parseInt(potato)*parseInt(sack))/5;
 var newArray= [totalAmount];
 newArray[0]= 'red';
 newArray[1]= 'blue';
