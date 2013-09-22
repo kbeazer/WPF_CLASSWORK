@@ -7,13 +7,7 @@
 var averageTime= 120;
 var days= averageTime/5;
 var weeks= Math.floor(days/7);
-if(weeks<2){
-    weeks= 'week 1';
-}else if(weeks<3){
-    weeks= 'week 2';
-}else{
-    weeks= 'week 3';
-}
+var result= '';
 var client= prompt('Please enter your first name');
 var month= prompt('Please enter the numerical value of the current month');
 var website= prompt('Please enter the address for your website');
@@ -32,12 +26,18 @@ newArray[10]= 'october';
 newArray[11]= 'november';
 newArray[12]= 'december';
 var productionMonth= newArray[calculation]
- var result= '';
-if(client=''){
+if(weeks<2){
+    weeks= 'week 1';
+}else if(weeks<3){
+    weeks= 'week 2';
+}else{
+    weeks= 'week 3';
+}
+if(client==''){
     result= 'Please enter your first name to continue';
 }else if(month= ''){
     result= 'Please enter the numerical value of the current month to continue';
-}else if(website= ''){
+}else if(website== ''){
     result= 'Please enter the address for your website to continue';
 }else{
     result= ''+client+', your website '+website+' will be up and running by '+weeks+' of '+productionMonth+'';
