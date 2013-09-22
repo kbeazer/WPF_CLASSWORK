@@ -8,4 +8,6 @@ var time= 40;
 var days= 365;
 var year= days;
 var productionRate= year/time;
+var client= prompt('Please enter the number of clients pending');
+
 
