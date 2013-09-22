@@ -8,12 +8,12 @@
 // car a customer can afford based on their year of birth
 
 //This will prompt the user to enter their name
-var firstPrompt= prompt("Please enter your name");
+var firstPrompt= prompt('Please enter your name');
 // This will prompt the user to enter the year they were born
-var secondPrompt= prompt("Please enter the year you were born"," ex. 1974");
+var secondPrompt= prompt('Please enter the year you were born','ex. 1974');
 //This calculation will give the age of the user
 var carResult= 2013-parseInt(secondPrompt);
-
+//This function generates a vehicle based on the age of the user
 function randomSelection(){
     if(carResult>40){
     return "Mercedes";
@@ -36,43 +36,16 @@ function randomSelection(){
 }else if(carResult>17){
     return "Kia";
 }else{
-    return 'you do not qualify for a vehicle at this time'
+    return 'you do not qualify for a vehicle at this time';
 }
 }
+// This command prompts user the enter their name in order to continue
 if(firstPrompt==''){
-    console.log('Please enter user Name');
-else if(secondPrompt == ""){
-        console.log("Please enter the year you born");
-    }
-else if (firstPrompt =="" && secondPrompt = ""){
-        console.log("Please, enter your name and the year you born");
-    }
+    console.log('Please enter user name to continue');
+}else if(secondPrompt== ''){
+        console.log('Please enter the year you born');
+}else if(carResult<17){
+        console.log('We are very sorry '+firstPrompt+', but you do not qualify for a vehicle at this time');
+}else{
+        console.log(''+firstPrompt+', you have qualified for a brand new '+randomSelection()+'!!!');
 }
-
-//var BMW =0;
-//var Mercedes =1;
-//var VW =2;
-//var Honda =3;
-//var Toyota =4;
-//var Nissan =5;
-//var Ford =6;
-//var Chevy =7;
-//var Lexus =8;
-//var Kia =9;
-//var randomGenerate;
-//
-//function magicSelect(){
-//    var creditScore= Math.random();
-//
-
-//}
-//for(randomGenerate=0;randomGenerate<10;randomGenerate++){
-//
-//}
-
-
-//
-//var firstInput = prompt("Please, enter a number", "Enter the number Here!");
-//var secondInput = prompt("Please, enter a second value","Value goes Here!");
-//var result = firstInput + secondInput;
-//console.log(result);

@@ -4,7 +4,7 @@
     <list default="true" id="f6b9378d-adfe-44a8-869f-837b692a6c77" name="Default" comment="" />
     <ignored path="CONDITIONALS_PERSONAL.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/initial.js" changelist="f6b9378d-adfe-44a8-869f-837b692a6c77" time="1379875289326" ignored="false" />
+    <file path="/initial.js" changelist="f6b9378d-adfe-44a8-869f-837b692a6c77" time="1379876519277" ignored="false" />
     <file path="/index.html" changelist="f6b9378d-adfe-44a8-869f-837b692a6c77" time="1379712068951" ignored="false" />
     <file path="/landSelection.js" changelist="f6b9378d-adfe-44a8-869f-837b692a6c77" time="1379716024495" ignored="false" />
     <file path="$PROJECT_DIR$/../../WPF_DAY4/js/landSelection.js" changelist="f6b9378d-adfe-44a8-869f-837b692a6c77" time="1379716104540" ignored="false" />
@@ -39,7 +39,7 @@
       <file leaf-file-name="initial.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/initial.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="43" selection-start="536" selection-end="536" vertical-scroll-proportion="0.33885542">
+            <state line="41" column="70" selection-start="1205" selection-end="1205" vertical-scroll-proportion="0.6385542">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -137,8 +137,8 @@
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../WPF_DAY4" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -252,6 +252,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/initial.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="35" selection-start="1395" selection-end="1395" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/initial.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="35" column="1" selection-start="898" selection-end="898" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -284,7 +300,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/initial.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="43" selection-start="536" selection-end="536" vertical-scroll-proportion="0.33885542">
+        <state line="41" column="70" selection-start="1205" selection-end="1205" vertical-scroll-proportion="0.6385542">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
