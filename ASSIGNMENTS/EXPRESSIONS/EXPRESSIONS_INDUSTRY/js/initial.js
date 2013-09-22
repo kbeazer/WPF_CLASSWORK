@@ -6,9 +6,9 @@
 
 var time= 40;
 var days= 365;
-var year= days;
-var productionRate= year/time;
-var client= prompt('Please enter the number of clients pending');
+var year= days/365;
+var productionRate= days/time;
+var client= prompt('Please enter your first name');
 var month= prompt('Please enter the numerical value of the current month');
 var newArray=[];
 newArray[1]= january;
