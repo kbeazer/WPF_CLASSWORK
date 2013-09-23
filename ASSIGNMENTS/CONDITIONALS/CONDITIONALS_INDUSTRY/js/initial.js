@@ -18,7 +18,7 @@ var workYear= 12;
 var totalHours= workDay*workWeek*workMonth*workYear;
 // This line divides the user salary with the total amount of yearly hours
 var hourlyRate= salary/totalHours;
-
+// This line rounds the hourly rate salary down
 var roundedPay= Math.floor(hourlyRate)
 
 console.log(salary)
