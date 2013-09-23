@@ -7,6 +7,8 @@
 var quarter;
 var heads;
 var tails;
+var xbox1;
+
 function coinToss(){
 
 }
