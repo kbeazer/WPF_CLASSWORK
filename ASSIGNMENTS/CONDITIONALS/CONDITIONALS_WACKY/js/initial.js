@@ -12,6 +12,7 @@ var heads= 1;
 var tails= 4;
 // This line declares xbox1 as having a value of 0
 var xbox1= 0;
+// This line declares ps4 as having a value of 5
 var ps4= 5;
 var consoleA= 'Playstation 4';
 var consoleB= 'Xbox One';
