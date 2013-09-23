@@ -24,6 +24,6 @@ function coinToss(){
         ps4= true;
         console.log('The Mighty Coin has spoken.......'+ps4+' is the winner of the coin toss!!!')
     }else{
-        return 'The Mighty Coin has spoken.....'+ '
+        return 'The Mighty Coin has spoken.......'+xbox1+' is the winner of the coin toss!!!'
     }
 }
