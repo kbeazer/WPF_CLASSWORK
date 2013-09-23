@@ -20,7 +20,7 @@ var totalHours= workDay*workWeek*workMonth*workYear;
 var hourlyRate= salary/totalHours;
 // This line rounds the hourly rate salary down
 var roundedPay= Math.floor(hourlyRate)
-
+// This line prints the user salary amount to the console
 console.log(salary)
 // This if stat
 if(salary==''){
