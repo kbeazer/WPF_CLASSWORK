@@ -28,6 +28,7 @@ if(salary==''){
 // This else if statement limits the user from using a value lower than the total amount of work hours
 }else if(salary<14400){
     console.log('Please enter a minimum value of 20000')
+// This else statement will display to the user the calculated value of their dollar per hour wage
 }else{
     console.log('Based on your entered salary, you need a job that pays a minimum of $'+roundedPay+'/hour')
 }
