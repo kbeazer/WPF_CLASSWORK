@@ -22,7 +22,7 @@ var hourlyRate= salary/totalHours;
 var roundedPay= Math.floor(hourlyRate)
 // This line prints the user salary amount to the console
 console.log(salary)
-// This if stat
+// This if statement ensures that the user inputs a value into the salary prompt
 if(salary==''){
     console.log('Please enter your desired salary to continue');
 }else if(salary<14400){
