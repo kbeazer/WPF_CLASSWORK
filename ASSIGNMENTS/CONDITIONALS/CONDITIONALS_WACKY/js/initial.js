@@ -12,5 +12,5 @@ var ps4;
 
 
 function coinToss(){
-
+    var flipIt= Math.random();
 }
