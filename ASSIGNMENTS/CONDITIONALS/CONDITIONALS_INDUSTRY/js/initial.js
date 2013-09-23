@@ -12,6 +12,7 @@ var workDay= 8;
 var workWeek= 5;
 // This line declares workMonth as having a value of 4
 var workMonth= 4;
+// This line declares workYear as having a value of 12
 var workYear= 12;
 var totalHours= workDay*workWeek*workMonth*workYear;
 var hourlyRate= salary/totalHours;
