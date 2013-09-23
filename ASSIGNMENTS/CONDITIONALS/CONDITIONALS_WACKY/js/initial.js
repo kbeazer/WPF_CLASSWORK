@@ -23,6 +23,7 @@ var consoleB= 'Xbox One';
 function coinToss(){
 // This line declares flipIt as having a value of Math.random times 5
     var flipIt= Math.random()*5;
+// This line declares callIt as having a value of flipIt rounded down
     var callIt= Math.floor(flipIt);
     if(callIt>3){
         quarter= tails;
