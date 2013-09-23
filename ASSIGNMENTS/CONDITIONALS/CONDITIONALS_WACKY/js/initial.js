@@ -8,6 +8,8 @@ var quarter;
 var heads;
 var tails;
 var xbox1;
+var ps4;
+
 
 function coinToss(){
 
