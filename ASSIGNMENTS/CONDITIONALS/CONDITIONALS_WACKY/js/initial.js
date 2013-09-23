@@ -19,7 +19,7 @@ var consoleA= 'Playstation 4';
 // This line declares consoleB as having the value Xbox One
 var consoleB= 'Xbox One';
 
-
+// This function chooses a random number and assigns that number the value of either heads or tails
 function coinToss(){
     var flipIt= Math.random()*5;
     var callIt= Math.floor(flipIt);
