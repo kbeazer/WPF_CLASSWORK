@@ -10,7 +10,7 @@ var tails= 4;
 var xbox1= 0;
 var ps4= 5;
 var consoleA= 'Playstation 4';
-
+var consoleB= 'Xbox One';
 
 
 function coinToss(){
@@ -24,8 +24,8 @@ function coinToss(){
         return 'The coin landed directly on it'+'s'+ 'side......rare occasion, fip again (and buy a lottery ticket today)'
     }if(quarter== tails){
         ps4= true;
-        console.log('The Mighty Coin has spoken.......'+ps4+' is the winner of the coin toss!!!')
+        console.log('The Mighty Coin has spoken.......'+consoleA+' is the winner of the coin toss!!!')
     }else{
-        return 'The Mighty Coin has spoken.......'+xbox1+' is the winner of the coin toss!!!'
+        return 'The Mighty Coin has spoken.......'+consoleB+' is the winner of the coin toss!!!'
     }
-}
+}console.log(coinToss())
