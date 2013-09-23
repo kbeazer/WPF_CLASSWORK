@@ -25,6 +25,7 @@ function coinToss(){
     var flipIt= Math.random()*5;
 // This line declares callIt as having a value of flipIt rounded down
     var callIt= Math.floor(flipIt);
+// This if statement will give the quarter the value of tails if the condition is true
     if(callIt>3){
         quarter= tails;
 }else if(callIt<3){
