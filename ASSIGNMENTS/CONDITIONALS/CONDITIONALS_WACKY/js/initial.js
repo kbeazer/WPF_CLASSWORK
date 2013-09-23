@@ -38,8 +38,10 @@ function coinToss(){
     }if(quarter== tails){
         ps4= true;
         console.log('The Mighty Coin has spoken.......'+consoleA+' is the winner of the coin toss!!!')
+// This else statement will return the string text if the above if statement is false
     }else{
         return 'The Mighty Coin has spoken.......'+consoleB+' is the winner of the coin toss!!!'
     }
+// This line prints the function coinToss to the console
 }console.log(coinToss());
 
