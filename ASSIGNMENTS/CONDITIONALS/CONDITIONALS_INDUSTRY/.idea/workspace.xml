@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45ba20f5-4129-4cd7-a76b-0a465aa780c3" name="Default" comment="" />
-    <ignored path="WPF_DAY4.iws" />
+    <list default="true" id="21ff6999-36b0-40cc-88bd-d3b08c5b31f9" name="Default" comment="" />
+    <ignored path="CONDITIONALS_INDUSTRY.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="45ba20f5-4129-4cd7-a76b-0a465aa780c3" time="1379889786750" ignored="false" />
-    <file path="/initial.js" changelist="45ba20f5-4129-4cd7-a76b-0a465aa780c3" time="1379372346228" ignored="false" />
-    <file path="/landSelection.js" changelist="45ba20f5-4129-4cd7-a76b-0a465aa780c3" time="1379895328897" ignored="false" />
+    <file path="/initial.js" changelist="21ff6999-36b0-40cc-88bd-d3b08c5b31f9" time="1379904259284" ignored="false" />
+    <file path="/index.html" changelist="21ff6999-36b0-40cc-88bd-d3b08c5b31f9" time="1379903925903" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,34 +21,25 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="WPF_DAY4" />
+    <favorites_list name="CONDITIONALS_INDUSTRY" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="19" selection-start="130" selection-end="130" vertical-scroll-proportion="-5.0">
+            <state line="6" column="34" selection-start="99" selection-end="99" vertical-scroll-proportion="-3.75">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="initial.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="initial.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/initial.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="47" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="landSelection.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/landSelection.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="103" column="46" selection-start="2642" selection-end="2642" vertical-scroll-proportion="2.191265">
+            <state line="10" column="0" selection-start="195" selection-end="195" vertical-scroll-proportion="0.22590362">
               <folding>
-                <element signature="e#0#157#0" expanded="false" />
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -65,10 +55,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/js/initial.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/landSelection2.js" />
-        <option value="$PROJECT_DIR$/js/landSelection.js" />
+        <option value="$PROJECT_DIR$/js/initial.js" />
       </list>
     </option>
   </component>
@@ -104,32 +92,31 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WPF_DAY4" />
+              <option name="myItemId" value="CONDITIONALS_INDUSTRY" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WPF_DAY4" />
+              <option name="myItemId" value="CONDITIONALS_INDUSTRY" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WPF_DAY4" />
+              <option name="myItemId" value="CONDITIONALS_INDUSTRY" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WPF_DAY4" />
+              <option name="myItemId" value="CONDITIONALS_INDUSTRY" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WPF_DAY4" />
+              <option name="myItemId" value="CONDITIONALS_INDUSTRY" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -139,13 +126,14 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ASSIGNMENTS/CONDITIONALS/CONDITIONALS_INDUSTRY" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CONDITIONALS_PERSONAL" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -159,21 +147,14 @@
       <option name="testName" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
-      <method />
-    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="45ba20f5-4129-4cd7-a76b-0a465aa780c3" name="Default" comment="" />
-      <created>1379366856700</created>
-      <updated>1379366856700</updated>
+      <changelist id="21ff6999-36b0-40cc-88bd-d3b08c5b31f9" name="Default" comment="" />
+      <created>1379896689336</created>
+      <updated>1379896689336</updated>
     </task>
     <servers />
   </component>
@@ -262,115 +243,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="32" selection-start="130" selection-end="130" vertical-scroll-proportion="0.0">
+        <state line="6" column="34" selection-start="99" selection-end="99" vertical-scroll-proportion="-3.75">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/initial.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="47" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/landSelection.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="12" selection-start="960" selection-end="960" vertical-scroll-proportion="0.0">
+        <state line="10" column="0" selection-start="195" selection-end="195" vertical-scroll-proportion="0.22590362">
           <folding>
-            <element signature="e#0#157#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="32" selection-start="130" selection-end="130" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/initial.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="47" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/landSelection.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="12" selection-start="960" selection-end="960" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#157#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="32" selection-start="130" selection-end="130" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/initial.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="47" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/landSelection.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="12" selection-start="960" selection-end="960" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#157#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="32" selection-start="130" selection-end="130" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/initial.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="47" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/landSelection.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="12" selection-start="960" selection-end="960" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#157#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/initial.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="47" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="19" selection-start="130" selection-end="130" vertical-scroll-proportion="-5.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/landSelection.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="103" column="46" selection-start="2642" selection-end="2642" vertical-scroll-proportion="2.191265">
-          <folding>
-            <element signature="e#0#157#0" expanded="false" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
