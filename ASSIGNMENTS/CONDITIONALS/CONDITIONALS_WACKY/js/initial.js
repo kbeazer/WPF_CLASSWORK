@@ -16,6 +16,7 @@ var xbox1= 0;
 var ps4= 5;
 // This line declares consoleA as having the value Playstation 4
 var consoleA= 'Playstation 4';
+// This line declares consoleB as having the value Xbox One
 var consoleB= 'Xbox One';
 
 
