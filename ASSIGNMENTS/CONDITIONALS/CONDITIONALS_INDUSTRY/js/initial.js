@@ -16,7 +16,7 @@ if(salary==''){
 }else if(salary<14400){
     console.log('Please enter a minimum value of 20000')
 }else{
-    console.log('Based on your entered salary, you need a job that pays a minimum of '+hourlyRate+'/hour')
+    console.log('Based on your entered salary, you need a job that pays a minimum of '+roundedPay+'/hour')
 }
 
 
