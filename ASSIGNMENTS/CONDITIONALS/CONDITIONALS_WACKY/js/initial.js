@@ -28,6 +28,7 @@ function coinToss(){
 // This if statement will give the quarter the value of tails if the condition is true
     if(callIt>3){
         quarter= tails;
+// This else if statement will give the quarter the value of heads if the above condition is false
 }else if(callIt<3){
         quarter= heads;
     }else{
