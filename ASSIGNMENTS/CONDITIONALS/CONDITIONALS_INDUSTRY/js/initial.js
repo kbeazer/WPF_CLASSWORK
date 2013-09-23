@@ -14,10 +14,15 @@ var workWeek= 5;
 var workMonth= 4;
 // This line declares workYear as having a value of 12
 var workYear= 12;
+// This line multiplies the values of worDay,workWeek, workMonth, and workYear
 var totalHours= workDay*workWeek*workMonth*workYear;
+
 var hourlyRate= salary/totalHours;
+
 var roundedPay= Math.floor(hourlyRate)
+
 console.log(salary)
+// This if stat
 if(salary==''){
     console.log('Please enter your desired salary to continue');
 }else if(salary<14400){
