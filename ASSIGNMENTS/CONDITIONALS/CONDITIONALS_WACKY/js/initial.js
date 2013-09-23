@@ -9,6 +9,8 @@ var heads= 1;
 var tails= 4;
 var xbox1= 0;
 var ps4= 5;
+var consoleA= 'Playstation 4';
+
 
 
 function coinToss(){
