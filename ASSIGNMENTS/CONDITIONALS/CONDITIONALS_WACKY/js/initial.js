@@ -6,4 +6,5 @@
 
 var coin;
 var heads;
+var tails;
 
