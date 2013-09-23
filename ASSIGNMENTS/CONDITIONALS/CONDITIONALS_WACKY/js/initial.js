@@ -21,6 +21,7 @@ var consoleB= 'Xbox One';
 
 // This function chooses a random number and assigns that number the value of either heads or tails
 function coinToss(){
+// This line declares flipIt as having a value of Math.random times 5
     var flipIt= Math.random()*5;
     var callIt= Math.floor(flipIt);
     if(callIt>3){
