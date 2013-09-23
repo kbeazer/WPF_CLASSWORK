@@ -18,6 +18,9 @@ function coinToss(){
         quarter= tails;
 }else if(callIt<3){
         quarter= heads;
+    }else{
+        return 'The coin landed directly on it'+'s'+ 'side......rare occasion, fip again (and buy a lottery ticket today)'
+    }if(quarter== tails){
 
     }
 }
