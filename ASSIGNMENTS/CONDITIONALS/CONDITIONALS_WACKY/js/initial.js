@@ -21,6 +21,9 @@ function coinToss(){
     }else{
         return 'The coin landed directly on it'+'s'+ 'side......rare occasion, fip again (and buy a lottery ticket today)'
     }if(quarter== tails){
-
+        ps4= true;
+        console.log('The Mighty Coin has spoken.......'+ps4+' is the winner of the coin toss!!!')
+    }else{
+        return 'The Mighty Coin has spoken.....'+ '
     }
 }
