@@ -6,8 +6,10 @@
 var salary= 75000;
 var workHours= 8;
 var workWeek= 5;
-var payScale= 20;
+var payRate= 20;
 var fullMonthHours= (workHours*workWeek)*4;
+var yearlyHours= fullMonthHours*12;
+
 
 
 var totalHours= workHours*workWeek;
