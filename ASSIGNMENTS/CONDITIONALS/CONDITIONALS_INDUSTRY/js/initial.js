@@ -3,8 +3,12 @@
 // Conditionals Industry
 
 //***Pay calculator***
+
+// This line prompts the user to enter their desired salary
 var salary= prompt('Enter your desired salary here');
+
 var workDay= 8;
+
 var workWeek= 5;
 var workMonth= 4;
 var workYear= 12;
