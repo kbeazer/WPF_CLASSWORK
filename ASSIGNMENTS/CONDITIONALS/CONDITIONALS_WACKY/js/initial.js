@@ -8,7 +8,9 @@
 var quarter;
 // This line declares heads as having a value of 1
 var heads= 1;
+// This line declares tails as having a value of 4
 var tails= 4;
+// This line declares xbox1 as having a value of 0
 var xbox1= 0;
 var ps4= 5;
 var consoleA= 'Playstation 4';
