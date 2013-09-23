@@ -10,6 +10,7 @@ var salary= prompt('Enter your desired salary here');
 var workDay= 8;
 // This line declares workWeek as having a value of 5
 var workWeek= 5;
+// This line declares workMonth as having a value of 4
 var workMonth= 4;
 var workYear= 12;
 var totalHours= workDay*workWeek*workMonth*workYear;
