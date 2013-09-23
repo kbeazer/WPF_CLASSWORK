@@ -15,6 +15,9 @@ function coinToss(){
     var flipIt= Math.random()*5;
     var callIt= Math.floor(flipIt)
     if(callIt>3){
+        quarter= tails;
+}else if(callIt<3){
+        quarter= heads;
 
     }
 }
