@@ -3,16 +3,12 @@
 // Conditionals Industry
 
 //***Pay calculator***
-var salary= 75000;
+var salary= prompt('Enter your desired salary here');
 var workHours= 8;
 var workWeek= 5;
-var payRate= 20;
-var fullMonthHours= (workHours*workWeek)*4;
-var yearlyHours= fullMonthHours*12;
+var workMonth= 30;
+var workYear= 12;
+var totalHours= workHours*workWeek*workMonth*workYear;
 
-
-
-var totalHours= workHours*workWeek;
-var workDays= totalHours/workWeek;
 
 
