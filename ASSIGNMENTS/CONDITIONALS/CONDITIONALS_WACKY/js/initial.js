@@ -31,6 +31,7 @@ function coinToss(){
 // This else if statement will give the quarter the value of heads if the above condition is false
 }else if(callIt<3){
         quarter= heads;
+// This else statement will return the string text if the if and else statements are false
     }else{
         return 'The coin landed directly on its side......rare occasion, fip again (and buy a lottery ticket today)'
     }if(quarter== tails){
