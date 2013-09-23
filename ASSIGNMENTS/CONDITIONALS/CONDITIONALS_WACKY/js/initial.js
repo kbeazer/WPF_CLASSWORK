@@ -6,6 +6,7 @@
 
 // This line declares quarter as a variable
 var quarter;
+// This line declares heads as having a value of 1
 var heads= 1;
 var tails= 4;
 var xbox1= 0;
