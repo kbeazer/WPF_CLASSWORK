@@ -25,6 +25,7 @@ console.log(salary)
 // This if statement ensures that the user inputs a value into the salary prompt
 if(salary==''){
     console.log('Please enter your desired salary to continue');
+// This else if statement limits the user from using a value lower than the total amount of work hours
 }else if(salary<14400){
     console.log('Please enter a minimum value of 20000')
 }else{
