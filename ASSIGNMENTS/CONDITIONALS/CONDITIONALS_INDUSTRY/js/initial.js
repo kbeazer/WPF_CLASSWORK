@@ -6,7 +6,7 @@
 
 // This line prompts the user to enter their desired salary
 var salary= prompt('Enter your desired salary here');
-
+// This line declares workDay as having a value of 8
 var workDay= 8;
 
 var workWeek= 5;
