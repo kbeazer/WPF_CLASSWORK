@@ -34,6 +34,7 @@ function coinToss(){
 // This else statement will return the string text if the if and else statements are false
     }else{
         return 'The coin landed directly on its side......rare occasion, fip again (and buy a lottery ticket today)'
+// This line will give ps4 the value as true if quarter is equal to tails
     }if(quarter== tails){
         ps4= true;
         console.log('The Mighty Coin has spoken.......'+consoleA+' is the winner of the coin toss!!!')
