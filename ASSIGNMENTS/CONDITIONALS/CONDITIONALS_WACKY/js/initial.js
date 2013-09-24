@@ -10,10 +10,6 @@ var quarter;
 var heads= 1;
 // This line declares tails as having a value of 4
 var tails= 4;
-// This line declares xbox1 as having a value of 0
-var xbox1= 0;
-// This line declares ps4 as having a value of 5
-var ps4= 5;
 // This line declares consoleA as having the value Playstation 4
 var consoleA= 'Playstation 4';
 // This line declares consoleB as having the value Xbox One
@@ -30,17 +26,18 @@ function coinToss(){
         quarter= tails;
 // This else if statement will give the quarter the value of heads if the above condition is false
 }else if(callIt<3){
-        quarter= heads;
+        quarter= heads; }
 // This else statement will return the string text if the if and else statements are false
-    }else{
-        return 'The coin landed directly on its side......rare occasion, fip again (and buy a lottery ticket today)'
+    else{
+        return 'The coin landed directly on its side......rare occasion, fip again (and buy a lottery ticket today)' }
 // This line will give ps4 the value as true if quarter is equal to tails
-    }if(quarter== tails){
-        ps4= true;
-        console.log('The Mighty Coin has spoken.......'+consoleA+' is the winner of the coin toss!!!')
+
+    if(quarter== tails){
+
+        return 'The Mighty Coin has spoken.......'+consoleA+' is the winner of the coin toss!!!';
 // This else statement will return the string text if the above if statement is false
     }else{
-        return 'The Mighty Coin has spoken.......'+consoleB+' is the winner of the coin toss!!!'
+        return 'The Mighty Coin has spoken.......'+consoleB+' is the winner of the coin toss!!!';
     }
 // This line prints the function coinToss to the console
 }console.log(coinToss());
