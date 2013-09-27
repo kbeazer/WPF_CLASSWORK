@@ -2,7 +2,7 @@
 // 9/23/13
 // Functions Industry
 
-var actualCost= 25;
+var actualCost= 57;
 var salesTax= .07;
 var taxAmount= actualCost*salesTax;
 var totalCost= actualCost+taxAmount;
@@ -14,6 +14,6 @@ function roundDown(){
 }else if(actualCost==''){
         return 'Please enter the dollar amount to continue';
 }else{
-
+     return '$'+flatDollar+'';
 }
-}
+} console.log(roundDown());
