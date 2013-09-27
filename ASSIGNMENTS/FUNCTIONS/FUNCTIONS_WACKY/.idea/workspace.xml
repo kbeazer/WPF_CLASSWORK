@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64c58c59-c370-4961-a4a6-b19e5b379f81" name="Default" comment="" />
-    <ignored path="FUNCTIONS_PERSONAL.iws" />
+    <list default="true" id="7b3aa10d-fa7a-4be5-8267-2d703cbd50a7" name="Default" comment="" />
+    <ignored path="FUNCTIONS_WACKY.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="64c58c59-c370-4961-a4a6-b19e5b379f81" time="1380305288082" ignored="false" />
-    <file path="/initial.js" changelist="64c58c59-c370-4961-a4a6-b19e5b379f81" time="1380316960221" ignored="false" />
+    <file path="/index.html" changelist="7b3aa10d-fa7a-4be5-8267-2d703cbd50a7" time="1380317406369" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,14 +20,14 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="FUNCTIONS_PERSONAL" />
+    <favorites_list name="FUNCTIONS_WACKY" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="34" selection-start="99" selection-end="99" vertical-scroll-proportion="-3.75">
+            <state line="8" column="12" selection-start="124" selection-end="124" vertical-scroll-proportion="-5.0">
               <folding />
             </state>
           </provider>
@@ -37,7 +36,7 @@
       <file leaf-file-name="initial.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/initial.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="15" selection-start="1087" selection-end="1087" vertical-scroll-proportion="0.70030123">
+            <state line="4" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="0.090361446">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -92,32 +91,31 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="FUNCTIONS_PERSONAL" />
+              <option name="myItemId" value="FUNCTIONS_WACKY" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="FUNCTIONS_PERSONAL" />
+              <option name="myItemId" value="FUNCTIONS_WACKY" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="FUNCTIONS_PERSONAL" />
+              <option name="myItemId" value="FUNCTIONS_WACKY" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="FUNCTIONS_PERSONAL" />
+              <option name="myItemId" value="FUNCTIONS_WACKY" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="FUNCTIONS_PERSONAL" />
+              <option name="myItemId" value="FUNCTIONS_WACKY" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -127,13 +125,13 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FUNCTIONS_WACKY" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
@@ -143,9 +141,9 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="64c58c59-c370-4961-a4a6-b19e5b379f81" name="Default" comment="" />
-      <created>1380305257388</created>
-      <updated>1380305257388</updated>
+      <changelist id="7b3aa10d-fa7a-4be5-8267-2d703cbd50a7" name="Default" comment="" />
+      <created>1380317374293</created>
+      <updated>1380317374293</updated>
     </task>
     <servers />
   </component>
@@ -234,14 +232,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="34" selection-start="99" selection-end="99" vertical-scroll-proportion="-3.75">
+        <state line="8" column="12" selection-start="124" selection-end="124" vertical-scroll-proportion="-5.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/initial.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="15" selection-start="1087" selection-end="1087" vertical-scroll-proportion="0.70030123">
+        <state line="4" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="0.090361446">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
