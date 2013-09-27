@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1dffb680-4b40-4604-8491-ce873146c848" name="Default" comment="" />
-    <ignored path="FUNCTIONS_INDUSTRY.iws" />
+    <list default="true" id="64c58c59-c370-4961-a4a6-b19e5b379f81" name="Default" comment="" />
+    <ignored path="FUNCTIONS_PERSONAL.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="1dffb680-4b40-4604-8491-ce873146c848" time="1380296560912" ignored="false" />
-    <file path="/initial.js" changelist="1dffb680-4b40-4604-8491-ce873146c848" time="1380298366457" ignored="false" />
+    <file path="/index.html" changelist="64c58c59-c370-4961-a4a6-b19e5b379f81" time="1380305288082" ignored="false" />
+    <file path="/initial.js" changelist="64c58c59-c370-4961-a4a6-b19e5b379f81" time="1380306296822" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,14 +21,14 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="FUNCTIONS_INDUSTRY" />
+    <favorites_list name="FUNCTIONS_PERSONAL" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="2" selection-start="119" selection-end="119" vertical-scroll-proportion="-5.0">
+            <state line="6" column="34" selection-start="99" selection-end="99" vertical-scroll-proportion="-3.75">
               <folding />
             </state>
           </provider>
@@ -37,7 +37,7 @@
       <file leaf-file-name="initial.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/initial.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="32" selection-start="439" selection-end="439" vertical-scroll-proportion="0.40601504">
+            <state line="19" column="16" selection-start="588" selection-end="588" vertical-scroll-proportion="0.42857143">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -97,27 +97,27 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="FUNCTIONS_INDUSTRY" />
+              <option name="myItemId" value="FUNCTIONS_PERSONAL" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="FUNCTIONS_INDUSTRY" />
+              <option name="myItemId" value="FUNCTIONS_PERSONAL" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="FUNCTIONS_INDUSTRY" />
+              <option name="myItemId" value="FUNCTIONS_PERSONAL" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="FUNCTIONS_INDUSTRY" />
+              <option name="myItemId" value="FUNCTIONS_PERSONAL" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="FUNCTIONS_INDUSTRY" />
+              <option name="myItemId" value="FUNCTIONS_PERSONAL" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -133,7 +133,6 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FUNCTIONS_PERSONAL" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
@@ -143,9 +142,9 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1dffb680-4b40-4604-8491-ce873146c848" name="Default" comment="" />
-      <created>1380296536357</created>
-      <updated>1380296536357</updated>
+      <changelist id="64c58c59-c370-4961-a4a6-b19e5b379f81" name="Default" comment="" />
+      <created>1380305257388</created>
+      <updated>1380305257388</updated>
     </task>
     <servers />
   </component>
@@ -234,14 +233,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="2" selection-start="119" selection-end="119" vertical-scroll-proportion="-5.0">
+        <state line="6" column="34" selection-start="99" selection-end="99" vertical-scroll-proportion="-3.75">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/initial.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="32" selection-start="439" selection-end="439" vertical-scroll-proportion="0.40601504">
+        <state line="19" column="16" selection-start="588" selection-end="588" vertical-scroll-proportion="0.42857143">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

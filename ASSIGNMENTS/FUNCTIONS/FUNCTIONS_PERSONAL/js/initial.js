@@ -1,7 +1,22 @@
-/**
- * Created with JetBrains WebStorm.
- * User: KBmac
- * Date: 9/27/13
- * Time: 11:41 AM
- * To change this template use File | Settings | File Templates.
- */
+// Kareem K. Beazer
+// 9/23/13
+// Functions Personal
+var monthBorn= prompt('Please enter the month you were born');
+var yearBorn= prompt('Please enter the year you were born');
+var currentYear= 2013;
+
+
+function idChecker(){
+    var userAge= currentYear-yearBorn;
+    if(monthBorn==''){
+        return 'Please enter the month you were born to continue'
+}else if(yearBorn==''){
+        return 'Please enter the year you were born to continue'
+}else{
+        return userAge;
+}if(userAge<18){
+        return 'You do not meet the age requirements necessary to continue'
+}else{
+        return ''
+    }
+}
