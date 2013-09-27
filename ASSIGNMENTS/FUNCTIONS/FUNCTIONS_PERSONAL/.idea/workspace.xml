@@ -5,7 +5,7 @@
     <ignored path="FUNCTIONS_PERSONAL.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="64c58c59-c370-4961-a4a6-b19e5b379f81" time="1380305288082" ignored="false" />
-    <file path="/initial.js" changelist="64c58c59-c370-4961-a4a6-b19e5b379f81" time="1380306296822" ignored="false" />
+    <file path="/initial.js" changelist="64c58c59-c370-4961-a4a6-b19e5b379f81" time="1380306714630" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,7 @@
       <file leaf-file-name="initial.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/initial.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="16" selection-start="588" selection-end="588" vertical-scroll-proportion="0.42857143">
+            <state line="3" column="69" selection-start="122" selection-end="122" vertical-scroll-proportion="0.067771085">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -64,7 +64,7 @@
     <option name="x" value="10" />
     <option name="y" value="22" />
     <option name="width" value="1420" />
-    <option name="height" value="813" />
+    <option name="height" value="812" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -149,7 +149,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="22" width="1420" height="813" extended-state="0" />
+    <frame x="10" y="22" width="1420" height="812" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -240,7 +240,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/initial.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="16" selection-start="588" selection-end="588" vertical-scroll-proportion="0.42857143">
+        <state line="3" column="69" selection-start="122" selection-end="122" vertical-scroll-proportion="0.067771085">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

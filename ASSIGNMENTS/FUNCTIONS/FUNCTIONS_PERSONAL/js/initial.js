@@ -1,7 +1,7 @@
 // Kareem K. Beazer
 // 9/23/13
 // Functions Personal
-var monthBorn= prompt('Please enter the month you were born');
+var monthBorn= prompt('Please enter the month you were born','Enter a number value HERE');
 var yearBorn= prompt('Please enter the year you were born');
 var currentYear= 2013;
 
@@ -17,6 +17,6 @@ function idChecker(){
 }if(userAge<18){
         return 'You do not meet the age requirements necessary to continue'
 }else{
-        return ''
+        return 'Your current age this year is '+userAge+', access granted!'
     }
-}
+} console.log(idChecker())
