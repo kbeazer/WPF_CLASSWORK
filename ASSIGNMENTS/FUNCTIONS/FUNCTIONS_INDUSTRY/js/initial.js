@@ -4,8 +4,8 @@
 
 var actualCost= prompt('Please enter the dollar value of the item');
 var salesTax= .07;
-var taxAmount= actualCost*salesTax;
-var totalCost= actualCost+taxAmount;
+var taxAmount= parseInt(actualCost)*salesTax;
+var totalCost= parseInt(actualCost)+taxAmount;
 function roundDown(){
     var flatDollar= Math.round(totalCost);
     if(actualCost<0){
