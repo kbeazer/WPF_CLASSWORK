@@ -1,11 +1,12 @@
 // Kareem K. Beazer
 // 9/23/13
 // Functions Wacky
+var transportType= [];
+transportType[0]= lawnMower;
+transportType[1]= tricycle;
+transportType[2]= loveSeat;
+transportType[3]= airPlane;
 
-var lawnMower= 25;
-var tricycle= 50;
-var loveSeat= 75;
-var airPlane= 100;
 function ranVariable(optionA,optionB,optionC,optionD){
     var wheelSpin= Math.random()*100;
     if(wheelSpin<25){
